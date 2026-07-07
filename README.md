@@ -81,15 +81,19 @@ Produced a clean and consistent dataset ready for exploratory data analysis (EDA
 
 ### Raw Dataset
 
-(Add your screenshot here)
+<img width="1165" height="741" alt="1raw" src="https://github.com/user-attachments/assets/c8786eaa-4f50-492a-9a89-34119db88ded" />
+
 
 ### SQL Queries
 
-(Add your screenshot here)
+<img width="1152" height="737" alt="3Query" src="https://github.com/user-attachments/assets/0045dc7f-903e-48da-9a80-dcae18dd00ce" />
+<img width="1135" height="902" alt="2Query" src="https://github.com/user-attachments/assets/b013b696-e483-44ca-97b8-d5bcfadad3eb" />
+
 
 ### Final Cleaned Dataset
 
-(Add your screenshot here)
+<img width="1212" height="502" alt="Clean_Data" src="https://github.com/user-attachments/assets/0333e3df-1d09-455b-bf1a-7834643af51d" />
+
 
 ---
 
